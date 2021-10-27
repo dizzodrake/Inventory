@@ -1,0 +1,9 @@
+.landing{
+    height: 100%;
+}
+.Landing{
+    background-image: url(./Images/inventory-management.png);
+    height: 630px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
